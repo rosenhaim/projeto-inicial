@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import './App.css';
 import Rosen from './Rosen';
 import logo from './logo.svg'
+import List from './List';
 
 
 
@@ -69,7 +70,9 @@ class App extends Component {
 </div>
 <button onClick={this.mudarEstado }>Mudar estado</button>
 <button onClick={this.resetar }>Reset state</button>
-
+<List>
+  
+</List>
 
     </div>
   );
