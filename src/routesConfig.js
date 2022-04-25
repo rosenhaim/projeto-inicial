@@ -1,6 +1,6 @@
 import Home from "./pages/home/Home";
 import User from "./pages/user/User";
-import user from "./pages/user/User";
+
 
 
 const routesConfig = [
