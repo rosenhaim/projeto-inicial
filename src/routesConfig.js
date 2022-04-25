@@ -6,12 +6,12 @@ import User from "./pages/user/User";
 const routesConfig = [
     {
         path:"/",
-        component: Home,
+       element: Home,
         exact:true
     },
     {
         path:"/user",
-        component:User,
+        element:User,
         exact:true
     }
 ]

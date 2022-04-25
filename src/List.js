@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import BlaBla from './BlaBla';
-import photo from './photo.jpeg';
+
 
 
 
